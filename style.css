@@ -1,3 +1,6 @@
 .header-hw {
   font-family: Arial;
+  display: flex;
+ gap: 20px;
+ justify-content: center;
 }
