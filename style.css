@@ -1,6 +1,7 @@
 .header-hw {
   font-family: Arial;
   display: flex;
- gap: 20px;
- justify-content: center;
+  gap: 20px;
+  justify-content: center;
+  filter: drop-shadow(2px 4px 5px rgba(0,0,0,0.5));
 }
